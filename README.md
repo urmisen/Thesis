@@ -1,4 +1,4 @@
-# Thesis
+# Acetylation
 
 ![Author](https://img.shields.io/badge/author-urmisen-orange)
 [![Apache License 2.0](https://img.shields.io/badge/license-Apache_License_2.0-5eba00.svg)](https://github.com/urmisen/Thesis/blob/master/LICENSE.md)
