@@ -13,7 +13,6 @@ Linkedin: https://www.linkedin.com/in/urmi-sen-78a821149/ </br>
 Email: urmisen1202@gmail.com <br>
 
 <hr>
-
 ## Project Description
 
 This study is about the Post Translational Modifications(PTM) about proteins. Here we are  trying to identify Acetylation sites in proteins, where Acetylation is a kind of Lysine Post Translational Modifications. This is the code repository of my work.
